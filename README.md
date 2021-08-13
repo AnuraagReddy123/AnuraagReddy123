@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnuraagReddy123
+- 👋 Hi, I’m Anuraag
 - 👀 I’m interested in Android Development and want to learn more about Data Science
 - 🌱 I’m currently learning some basic machine learning
 - 💞️ I’m looking to collaborate on any android project (as long as it is written in Java)
