@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anuraag
-- 👀 I’m interested in Android Development and want to learn more about Data Science
-- 🌱 I’m currently learning some basic machine learning
-- 💞️ I’m looking to collaborate on any android project (as long as it is written in Java)
+- 👀 I’m interested in Natural Language Processing and Machine learning in general
+- 🌱 I’m currently learning about Reinforcement Learning
 - 📫 How to reach me email me at: anuraagreddy74@gmail.com
 
 <!---
