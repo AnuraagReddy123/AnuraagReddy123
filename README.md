@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anuraag
-- 👀 I’m interested in Natural Language Processing and Machine learning in general
-- 🌱 I’m currently learning about Reinforcement Learning
+- 👀 I’m interested in Systems Programming and Software Engineering
+- 🌱 I’m currently learning about file systems in Linux and currently working on Wrapfs
 - 📫 How to reach me email me at: anuraagreddy74@gmail.com
 
 <!---
